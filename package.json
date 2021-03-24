@@ -1,0 +1,16 @@
+{
+    "name": "nuxt-club",
+    "description": "Made with Nuxt",
+    "author": "Lautaro Pereyra <dev.lautaropereyra@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/imlautaro/nuxt-club.git",
+    "bugs": "https://github.com/imlautaro/nuxt-club/issues",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt generate",
+        "start": "nuxt start"
+    },
+    "dependencies": {
+        "nuxt": "^2.15.3"
+    }
+}
