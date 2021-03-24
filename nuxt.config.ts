@@ -6,7 +6,11 @@ const config: NuxtConfig = {
 		'@nuxtjs/composition-api',
 		'@nuxtjs/tailwindcss',
 		'@nuxtjs/google-fonts',
+		'@nuxtjs/color-mode',
 	],
+	colorMode: {
+		classSuffix: '',
+	},
 	components: true,
 	generate: {
 		interval: 2000,
